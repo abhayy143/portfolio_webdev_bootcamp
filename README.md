@@ -54,6 +54,6 @@ We welcome contributions to the Portfolio Website project! If you would like to 
 
 - [@abhayy143](https://github.com/abhayy143)
 
-## Contributor
+## Contributors
 - [@maddy020](https://github.com/maddy020)
 - [@Rishav1707](https://github.com/Rishav1707)
