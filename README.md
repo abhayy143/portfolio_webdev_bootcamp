@@ -50,7 +50,7 @@ We welcome contributions to the Portfolio Website project! If you would like to 
 - **Create** a new pull request.
 
 
-## Authors
+## Author
 
 - [@abhayy143](https://github.com/abhayy143)
 
