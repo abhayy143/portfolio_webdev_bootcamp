@@ -6,7 +6,7 @@
 
 ## 📷Screenshots📷
 
-![App Screenshot](./images/portfolio.JPG)
+![App Screenshot](./images/porfolio.JPG)
 
 ## 🙌🏻Features🙌🏻
 
